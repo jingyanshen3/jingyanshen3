@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Jingyan Shen! 👋
 
-<!--
-**jingyanshen3/jingyanshen3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Business Analytics graduate and former Internal Audit professional with a passion for turning complex data into actionable business insights. 
+My expertise lies at the intersection of data engineering, predictive modeling, and business intelligence.
 
-Here are some ideas to get you started:
+### 🛠️ Technical Toolbox
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (Oracle, Apache Impala)
+* **Data & Analytics:** Predictive Modeling, Regression, Machine Learning (Random Forest, XGBoost, CNNs)
+* **Tools & Platforms:** Git/GitHub, Jupyter Notebooks, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 What I Do
+* **Predictive Analytics:** Building end-to-end machine learning pipelines to solve complex forecasting and classification problems.
+* **Data Integrity:** Ensuring absolute precision in data extraction, processing, and financial validation.
