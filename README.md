@@ -5,6 +5,7 @@ My expertise lies at the intersection of data engineering, predictive modeling, 
 
 ### 🛠️ Technical Toolbox
 * **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (Oracle, Apache Impala)
+* **Data Visualization & BI:** Tableau, Power BI
 * **Data & Analytics:** Predictive Modeling, Regression, Machine Learning (Random Forest, XGBoost, CNNs)
 * **Tools & Platforms:** Git/GitHub, Jupyter Notebooks, Excel
 
